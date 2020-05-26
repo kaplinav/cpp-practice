@@ -1,0 +1,4 @@
+3
+0 Stein Graphs 2011 11.50 3
+1 Hammel Sculpture 1987 15.30 0
+2 Ivanov Russia 2013 14.23 4

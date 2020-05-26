@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: lab7, Configuration: Debug Win32 ------
+1>calculate.cpp
+1>c:\users\user\source\repos\practice\lab7\calculate.cpp(25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+1>c:\users\user\source\repos\practice\lab7\calculate.cpp(42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+1>lab7.vcxproj -> C:\Users\User\source\repos\practice\Debug\lab7.exe
+1>Done building project "lab7.vcxproj".
+========== Build: 1 succeeded, 0 failed, 6 up-to-date, 0 skipped ==========
