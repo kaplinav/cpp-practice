@@ -1,6 +1,0 @@
-﻿  task_7.cpp
-c:\users\user\source\repos\practice\lab3\task_7.cpp(32): warning C4018: '<': signed/unsigned mismatch
-c:\users\user\source\repos\practice\lab3\task_7.cpp(65): warning C4018: '<': signed/unsigned mismatch
-c:\users\user\source\repos\practice\lab3\task_7.cpp(79): warning C4018: '<': signed/unsigned mismatch
-c:\users\user\source\repos\practice\lab3\task_7.cpp(87): warning C4018: '<': signed/unsigned mismatch
-  lab3.vcxproj -> C:\Users\User\source\repos\practice\Debug\lab3.exe

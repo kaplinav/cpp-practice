@@ -1,4 +1,0 @@
-﻿  calculate.cpp
-c:\users\user\source\repos\practice\lab7\calculate.cpp(25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\user\source\repos\practice\lab7\calculate.cpp(42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-  lab7.vcxproj -> C:\Users\User\source\repos\practice\Debug\lab7.exe
